@@ -47,6 +47,3 @@
 - 整景遥感影像分割结果
 
 ![image-20230812153200582](https://s2.loli.net/2023/08/12/nuzCryVkip8DZgt.png)
-
-<center>RGB原始图像和基于CA-LinkNet模型的海雾探测结果，红线为CALIOP轨迹线，绿点代表海雾。</center>
-
